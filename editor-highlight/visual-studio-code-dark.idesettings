@@ -305,7 +305,7 @@
 		<Setting Name="Default Foreground" DataType="1" Value="False"/>
 		<Setting Name="Default Background" DataType="1" Value="False"/>
 		<Setting Name="Foreground Color New" DataType="1" Value="$00DCDCDC"/>
-		<Setting Name="Background Color New" DataType="1" Value="$001E1E1E"/>
+		<Setting Name="Background Color New" DataType="1" Value="clHotLight"/>
 	</SettingGroup>
 	<SettingGroup Name="Editor\Highlight\String" Selected="true">
 		<Setting Name="Bold" DataType="1" Value="False"/>
